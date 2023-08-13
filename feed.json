@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NORWAY 2023",
+    "description": "",
+    "home_page_url": "https://frau-urlaub-on-tour.github.io/norway-2023",
+    "feed_url": "https://frau-urlaub-on-tour.github.io/norway-2023/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Petra"
+    },
+    "items": [
+        {
+            "id": "https://frau-urlaub-on-tour.github.io/norway-2023/post1.html",
+            "url": "https://frau-urlaub-on-tour.github.io/norway-2023/post1.html",
+            "title": "The Route",
+            "summary": "It'll be a lot of driving from the South West of Germany up to the very North of Norway. The first stretch will take me from Neustadt via Bremen to Hirtshals in North Denmark, a distance of 1.210 km. From&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/gallery/Hirtshals-to-Bergen.jpg\" data-size=\"1273x664\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/gallery/Hirtshals-to-Bergen-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"376\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/gallery/Bergen-to-Bodo.jpg\" data-size=\"1222x737\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/gallery/Bergen-to-Bodo-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"434\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/gallery/Bodo-to-Moskenes.jpg\" data-size=\"1263x724\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/gallery/Bodo-to-Moskenes-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"413\"></a></figure>\n</div></div>\n<p>It'll be a lot of driving from the South West of Germany up to the very North of Norway. The first stretch will take me from Neustadt via Bremen to Hirtshals in North Denmark, a distance of 1.210 km. From there it'll be a 16,5 hour night crossing on the car ferry to Bergen. </p>\n<p>The next 4 days will be spent going further up the North West coast of Norway, 1.480 km in total, to reach Bodo on Friday, 25 August. Here, I will pick up Medha at the airport. Together, we will cross over to the Lofoten which we intend to explore during the following week. Hopefully not only in the rain; we'll see. The weather is known to be very unpredictable up there.</p>",
+            "image": "https://frau-urlaub-on-tour.github.io/norway-2023/media/posts/27/Neustadt-to-Denmark.jpg",
+            "author": {
+                "name": "Petra"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-20T10:55:00+02:00",
+            "date_modified": "2023-08-20T10:55:00+02:00"
+        }
+    ]
+}
